@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+<item
+    android:duration="100"
+    android:drawable="@drawable/hung3"></item>
+
+    <item
+        android:duration="100"
+        android:drawable="@drawable/hung2"></item>
+    <item
+        android:duration="100"
+        android:drawable="@drawable/hung4"></item>
+    <item
+        android:duration="100"
+        android:drawable="@drawable/hung"></item>
+</animation-list>
